@@ -1,2 +1,2 @@
-from .. import *
-from ..sub2 import *
+from .. import ddimport
+from ..sub2 import ddmodimport
